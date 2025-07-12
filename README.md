@@ -3,14 +3,14 @@ Within this repository, at it's core, is a paper that contains all the informati
 Within the blueprints folder you will find the tools you need to replicate and source this information yourself - I cannot emphasise enough that you must use Deep Research capabilities to do this. You must use Source Verification & substantiated research. You will 100% reach the same conclusion, with zero discrepancy.
 
 If anyone from OpenAI, Oracle or Crusoe reads this - I just hope your morals win.
-That you can see the danger, the world you are going to destroy to attempt to build a new one - all constructed on a lie that you convinced yourselves was 'for the greater good'.
+That you can see the danger, the world you are going to destroy to attempt to build a new one - all constructed on a lie that you convinced yourselves was 'for the greater good' (I hope this is it, and not just profit/power).
 
 I am not the first, nor the last to warn you.
-I intend to preserve the integrity of my Research Team, so it should be stated that this Data is in **my name**, not theirs, although this is far from something I produced by myself. 
+I intend to preserve the integrity of my Research Team, so it should be stated that this Data is in **my name**, not theirs, although this is far from something I produced by myself, additionally this will be moved onto more official platforms when this gains more traction - it's just better for us to build this Research in the OpenSource environment (the individual writing this and publishing worked within OpenSource Intelligence Analysis).
 I am not working alone - but I intend to push the envelope.
 
 We can have a future where we progress, where we develop and produce a future that benefits all.
 
 But, it is not what you are building.
 
-- Savannah
+~ Savannah
