@@ -50,7 +50,7 @@ Please review the following guidelines before contributing:
 
 ## Citation Standards: 
 - If you are contributing new text or information that integrates into the report, please adhere to the citation format used in the original document:
-- `` at the end of each sentence or phrase where information from a source is used. For multiple sources, use [span_13](end_span).
+- Provide sourcing ([number]) at the end of each sentence or phrase where information from a source is used. For multiple sources, use a chain of these.
 - If providing new sources, ensure they are added to the "Works cited" section.
 
 ## Review Process: 
