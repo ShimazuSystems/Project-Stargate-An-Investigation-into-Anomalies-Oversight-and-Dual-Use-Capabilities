@@ -10,7 +10,8 @@ While publicly framed as a commercial venture to secure American leadership in A
 Timeline Deception and Public Misrepresentation: Our detailed reconstruction of public records reveals significant corporate, financial, and construction activities were underway months before the project's formal White House announcement on January 21, 2025. Corporate entities were registered, land was acquired, financing secured, and construction commenced under codenames like "Project Ludicrous" long before the initiative was presented to the public.
 Opaque and High-Risk Financial Architecture: The project is financed through a deliberately complex web of newly formed entities, special purpose vehicles (SPVs), and a layered capital stack involving private equity, significant debt, and substantial foreign sovereign wealth.
 
-## Anomalous Capabilities and Dual-Use Indicators: Public statements by key principals, most notably Oracle Chairman Larry Ellison's specific claims regarding the capability to "robotically" manufacture personalized mRNA cancer vaccines within 48 hours, point toward functionalities far beyond standard AI model training. These claims are substantiated by Oracle's extensive portfolio in AI-driven genomics and life sciences and by job postings from its development partner, Crusoe, seeking expertise in "computational biology" and "bioinformatics".
+## Anomalous Capabilities and Dual-Use Indicators: 
+Public statements by key principals, most notably Oracle Chairman Larry Ellison's specific claims regarding the capability to "robotically" manufacture personalized mRNA cancer vaccines within 48 hours, point toward functionalities far beyond standard AI model training. These claims are substantiated by Oracle's extensive portfolio in AI-driven genomics and life sciences and by job postings from its development partner, Crusoe, seeking expertise in "computational biology" and "bioinformatics".
 
 ## Systemic Oversight Failures: 
 
