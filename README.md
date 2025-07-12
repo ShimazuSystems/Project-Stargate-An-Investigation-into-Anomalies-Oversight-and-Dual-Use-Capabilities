@@ -1,6 +1,6 @@
 ## Summary
 Within this repository, at it's core, is a paper that contains all the information you need to know (with sources).
-Within the blueprints folder you will find the tools you need to replicate and source this information yourself - I cannot emphasise enough that you must use Deep Research capabilities to do this. You must use Source Verification & substantiated research. You will 100% reach the same conclusion, with zero discrepenacy.
+Within the blueprints folder you will find the tools you need to replicate and source this information yourself - I cannot emphasise enough that you must use Deep Research capabilities to do this. You must use Source Verification & substantiated research. You will 100% reach the same conclusion, with zero discrepancy.
 
 If anyone from OpenAI, Oracle or Crusoe reads this - I just hope your morals win.
 That you can see the danger, the world you are going to destroy to attempt to build a new one - all constructed on a lie that you convinced yourselves was 'for the greater good'.
